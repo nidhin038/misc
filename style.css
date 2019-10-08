@@ -1,0 +1,182 @@
+.main-container{
+	border: 1px solid;
+    height: 1400px;
+    margin: 30px 30px 30px 30px;
+}
+
+.first-sub-container{
+	border: 1px solid;
+    height: 40px;
+}
+
+.second-sub-container{
+	border: 1px solid;
+}
+
+.from-title{
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
+
+.from-details{
+	border: 1px solid;
+	font-size: 12px;
+	padding-left: 10px;
+}
+
+.to-title{
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
+
+.to-details{
+	border: 1px solid;
+	font-size: 12px;
+	padding-left: 10px;
+}
+
+.freight-bill{
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
+
+.freight-bill-details{
+	border: 1px solid;
+	font-size: 12px;
+	padding-left: 10px;
+}
+
+.instruction{
+	border: 1px solid;
+	height: 145px;
+	padding-left: 10px;
+}
+
+.bill-num{
+	border: 1px solid;
+	margin-left: -30px;
+	padding-left: 10px;
+}
+
+.carrier-details01{
+	border: 1px solid;
+	margin-left: -30px;
+	padding-left: 10px;
+	height: 121px;
+}
+
+.carrier-details02{
+	border: 1px solid;
+	margin-left: -30px;
+	padding-left: 10px;
+	height: 161px;
+}
+
+.carrier-details03{
+	border: 1px solid;
+	margin-left: -30px;
+	padding-left: 10px;
+	height: 100px;
+	font-size: 12px;
+}
+
+.bill-lading{
+	font-size: 12px;    
+	top: 32px;
+	position: absolute;
+}
+
+.bill-lading-text{
+	font-size: 12px;
+	top: 24px;
+    position: absolute;
+}
+
+.carrier-dash{
+	width: 100px;
+	border-bottom: 1px solid #000000;
+}
+
+.carrier-info{
+	background-color: grey;
+	color: white;
+	text-align: center;
+}
+
+.handling-unit{
+	height: 400px;
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+	border: 1px solid;
+}
+
+.text-info1{
+	font-size: 12px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	border: 1px solid;
+}
+
+.text-info2{
+	font-size: 12px;
+	padding-left: 10px;
+	border: 1px solid;
+	height: 79px;
+}
+
+.text-info3{
+	font-size: 14px;
+	height: 23px;
+	border: 1px solid;
+}
+
+.text-info4{
+	font-size: 12px;
+	border: 1px solid;
+	height: 100px;
+}
+
+.text-info5{
+	font-size: 12px;
+	padding-left: 10px;
+	border: 1px solid;
+	height: 100px;
+}
+
+.text-info6{
+	font-size: 12px;
+	border: 1px solid;
+	padding-left: 10px;
+	height: 180px;
+}
+
+.text-info7{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.text-info8{
+	border: 1px solid;
+	padding-left: 20px;
+	font-size: 12px;
+	height: 180px;
+}
+
+.text-info9{
+	text-decoration: underline;
+	font-size: 14px;
+}
+
+.text-info10{
+	font-size: 12px;
+	height: 180px;
+	padding-left: 10px;
+	border: 1px solid;
+}
+
+.text-info11{
+	font-size: 14px;
+}
